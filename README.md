@@ -1,7 +1,5 @@
 # Search-Website
 Search And Reporting Application Website
-
-Search and Reporting Application Website
  Created a website with multiple menu options.
  Submenus have link references to other sites, browser information using JavaScript BOM (Browser Object Model) and searching using a file, or the Google Search API. 
  Search from a file reads in an uploaded file of type JSON, CSV, and XML that contain the title, description and URL of websites. 
